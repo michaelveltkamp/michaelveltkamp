@@ -1,7 +1,7 @@
 <!-- Banner (optional: replace with your own SVG banner if you create one) -->
 <!-- ![Banner](./banner.svg) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9D79F0&vCenter=true&width=600&lines=Hey+there!+I'm+Michael.;Full-Stack+Developer+%7C+WoW+Mythic+Raider;I+build+cool+things+with+code+and+teamwork)](https://git.io/typing-svg)
+[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hey+there+I+am+Michael.+Frontend+Developer)](https://git.io/typing-svg))](https://git.io/typing-svg)
 
 ---
 
