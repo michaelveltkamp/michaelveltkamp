@@ -1,5 +1,6 @@
 <!-- Banner (optional: replace with your own SVG banner if you create one) -->
 <!-- ![Banner](./banner.svg) -->
+![Michael Veltkamp Banner](./banner.png)
 
 [![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hey+there+I+am+Michael.+Frontend+Developer)](https://git.io/typing-svg))](https://git.io/typing-svg)
 
