@@ -2,7 +2,7 @@
 <!-- ![Banner](./banner.svg) -->
 ![Michael Veltkamp Banner](./banner.png)
 
-[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=Hey+there+I+am+Michael.+Frontend+Developer)](https://git.io/typing-svg))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9D79F0&vCenter=true&width=600&lines=Hey+there!+I'm+Michael.;Frontend+Developer+%7C+Gym+Rat;I+build+cool+things+with+code+and+discipline)](https://git.io/typing-svg)
 
 ---
 
@@ -31,7 +31,8 @@
 
 ## ⚡ Fun Fact
 
-I’ve pulled aggro more times than I’ve pushed to `main`.  
+I treat **clean code** the same way I treat **deadlifts**:  
+Strict form, full range, no shortcuts.
 
 ---
 
